@@ -42,9 +42,16 @@ Recomenda-se que a ferramenta gráfica seja o Grafana, mas pode ser feito utiliz
 
 <h2 dir="auto"> 🚦 Guia </h2>
 <ul dir="auto">
-<li> Etapa I - <a href=" https:// "> Acessar </a></li>
-<li> Etapa II - <a href=" https:// "> Acessar </a></li>
-<li> Etapa III - <a href=" https:// "> Acessar </a></li>
+<li> Etapa I - Obter um csv. <a href=" https:// "> Acessar </a></li>
+<li> Etapa II - Criar um bucket de destino. <a href=" https:// "> Acessar </a></li>
+<li> Etapa III - Criar um script de fluxo. <a href=" https:// "> Acessar </a></li>
+ 
+<li> Etapa IV - Injetar o csv.from. <a href=" https:// "> Acessar </a></li>
+<li> Etapa V - Passar a url csv. <a href=" https:// "> Acessar </a></li>
+<li> Etapa VI - Gravar dados no buckt. <a href=" https:// "> Acessar </a></li>
+ 
+ 
+ 
 </ul>
 
 
