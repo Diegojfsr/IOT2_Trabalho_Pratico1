@@ -5,12 +5,16 @@
 
 <h2> 🎯 Objetivo </h2>
 1. Avaliar os conhecimentos adquiridos sobre séries temporais.
-2. Analisar algum *dataset* público na internet que contenha dados obtidos através de sensores IoT. Três grandes repositórios gratuitos que eu gostaria de indicar são:
+<br>
+2. Analisar algum *dataset* público na internet que contenha dados obtidos através de sensores IoT.
+Três grandes repositórios gratuitos que eu gostaria de indicar são:
 
 - [Portal de Dados abertos do Governo do Estado de Queensland (Austrália)](https://www.data.qld.gov.au/)
 - [Loja de Dados abertos da Prefeitura de Londres - Reino Unido](https://data.london.gov.uk/)
-- [Portal Brasileiro de Dados abertos](https://dados.gov.br/)
-Evidentemente o trabalho não se limita a apenas estes três repositórios.
+- [Portal Brasileiro de Dados abertos](https://dados.gov.br/)<br>
+ <em>Evidentemente o trabalho não se limita a apenas estes três repositórios.</em>
+<br>
+
 
 3. Apresentar um seminário no dia 10 de Novembro de 2022 (conforme mencionado acima)  referente ao *dataset* escolhido e promover, ao menos, cinco consultas gráficas que você(s) julgue(m) interessantes.
 Os critérios para avaliação deste trabalho serão:
@@ -20,8 +24,20 @@ Os critérios para avaliação deste trabalho serão:
 - Qualidade na apresentação das consultas gráficas
 
 O trabalho deve ser feito utilizando o TSDB (*Time Series Database* - Banco de Dados de Séries Temporais) InfluxDB. Pode ser utilizado computador próprio para apresentar o trabalho ou então a versão gratuita do [InfluxDB Cloud](https://cloud2.influxdata.com/signup) (este utiliza a versão dois do SGBD, diferente da versão 1.8 utilizada em sala de aula, mas as diferenças não são tão grande).
-
+<br>
 Recomenda-se que a ferramenta gráfica seja o Grafana, mas pode ser feito utilizando também o Chronograf.
+
+<p>
+  
+  Dataset Escolhido:<br>
+  Inmet Mapas de Estações<br>
+  Área experimental do centro de Ciências Agrarias da Universidade Federal do Espirito Santo. CCA-UFES<br>
+ Ponto de Acesso: [A617] ALEGRE - ES<br>
+
+[https://mapas.inmet.gov.br/](https://mapas.inmet.gov.br/)
+  
+</p>
+
 
 
 <h2 dir="auto"> 🚦 Guia </h2>
