@@ -59,6 +59,8 @@ Recomenda-se que a ferramenta gráfica seja o Grafana, mas pode ser feito utiliz
 <h2 dir="auto"> 🔗 Links Úteis </h2>
 <ul dir="auto">
   <li><a href="https://europe-west1-1.gcp.cloud2.influxdata.com/orgs/d98a9271c06985a3/load-data/sources"> Influx Cloud</a></li>
+  li><a href="https://medium.com/@rodrigosiviero/usando-influxdb-para-coletar-dados-do-jenkins-1ee0d9148fc1"> Usando InfluxDB para coletar dados do Jenkins</a></li>
+    li><a href="https://dganais.medium.com/getting-started-writing-data-to-influxdb-54ce99fdeb3e"> Primeiros passos: gravando dados no InfluxDB</a></li>
 
 </ul>
 
