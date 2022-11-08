@@ -62,8 +62,9 @@ Recomenda-se que a ferramenta gráfica seja o Grafana, mas pode ser feito utiliz
 
 <h2 dir="auto"> 📺 Videos Úteis </h2>
 <ul dir="auto">
-<li><a href="https://www.youtube.com/watch?v=qkOjT8D_Y5Q"> React fetch API / Chuck Norris API - Part 1 </a></li>
-<li><a href="https://www.youtube.com/watch?v=OinmKcdJaWo&t=25s"> Fetch a Chuck Norris API in JavaScript in 7 Minutes | API Basics" </a></li>
+<li><a href="https://www.youtube.com/watch?v=wPKZ9i0DulQ"> Como escrever um CSV anotado com Flux para InfluxDB </a></li>
+<li><a href="https://www.youtube.com/watch?v=O0i2N4VMcR4"> Assistente de casa: InfluxDB | importação manual de arquivo CSV </a></li>
+<li><a href="https://www.youtube.com/watch?v=qFS2zANwIrc&t=96s"> Como adicionar dados ao InfluxDB Cloud com Telegraf em 5 etapas </a></li>
 
 </ul>
 
