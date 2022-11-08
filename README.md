@@ -1,0 +1,2 @@
+# Trabalho_Pratico_Series_Temporais
+TRABALHO PRÁTICO - SÉRIES TEMPORAIS (COMPUTAÇÃO EM NUVEM E IOT II)
