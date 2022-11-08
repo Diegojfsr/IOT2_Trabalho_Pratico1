@@ -23,32 +23,6 @@ O trabalho deve ser feito utilizando o TSDB (*Time Series Database* - Banco de D
 
 Recomenda-se que a ferramenta gráfica seja o Grafana, mas pode ser feito utilizando também o Chronograf.
 
-1. Para esse trabalho iremos utilizar HTML + CSS + JavaScript.
-2. Utilizar a seguinte API: [https://api.chucknorris.io/](https://api.chucknorris.io/), <br>
-<em>(essa API permite apresentar fatos humorísticos a respeito do Chuck Norris)</em>
-3. Apresentar os fatos através das seguintes categorias:<br>
-a. Aleatório <br>
-b. Com base em uma categoria <br>
-c. Através de uma busca textual <br>
-
-<p>
-  O site deve permitir que o usuário tenha acesso através de qualquer um dos três
- caminhos, ou seja, se ele quiser pode pedir uma curiosidade aleatória, 
- ou baseandose em uma categoria, ou através de uma busca textual.<br>
-  
-<h3>Rotas da API:</h3> 
- Apresenta uma curiosidade aleatória: <br>
- [https://api.chucknorris.io/jokes/random](https://api.chucknorris.io/jokes/random)
-
- Apresenta as categorias disponíveis: <br>
- [https://api.chucknorris.io/jokes/categories](https://api.chucknorris.io/jokes/categories)
-
- Apresenta uma curiosidade com base na categoria desejada: <br>
- [https://api.chucknorris.io/jokes/random?category={category}](https://api.chucknorris.io/jokes/random?category=%7Bcategory%7D)
-
- Apresenta uma curiosidade com base em uma busca textual: <br>
- [https://api.chucknorris.io/jokes/search?query=](https://api.chucknorris.io/jokes/search?query=){query}
-</p>
 
 <h2 dir="auto"> 🚦 Guia </h2>
 <ul dir="auto">
@@ -87,7 +61,7 @@ saber. E caso você conheça alguém que se identidique com o conteúdo, não de
 <p dir="auto"> 
  <em>
   Projeto desenvolvido utilizando os conhecimentos adquiridos durante meu IV periodo de formação do Curso de <strong> GTI </strong>
-  na disciplina de Web III do <br>
+  na disciplina de IOT II do <br>
   <a href="https://www.ifsudestemg.edu.br/muriae"> <strong> IF Sudeste MG </strong></a> ❤️💚💚
  </em> 
 </p>
