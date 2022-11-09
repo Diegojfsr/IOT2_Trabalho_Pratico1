@@ -15,7 +15,6 @@ Três grandes repositórios gratuitos que eu gostaria de indicar são:
  <em>Evidentemente o trabalho não se limita a apenas estes três repositórios.</em>
 <br>
 
-
 3. Apresentar um seminário no dia 10 de Novembro de 2022 (conforme mencionado acima)  referente ao *dataset* escolhido e promover, ao menos, cinco consultas gráficas que você(s) julgue(m) interessantes.
 Os critérios para avaliação deste trabalho serão:
 
