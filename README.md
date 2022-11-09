@@ -68,6 +68,7 @@ Recomenda-se que a ferramenta gráfica seja o Grafana, mas pode ser feito utiliz
 <li><a href="https://www.youtube.com/watch?v=wPKZ9i0DulQ"> Como escrever um CSV anotado com Flux para InfluxDB </a></li>
 <li><a href="https://www.youtube.com/watch?v=O0i2N4VMcR4"> Assistente de casa: InfluxDB | importação manual de arquivo CSV </a></li>
 <li><a href="https://www.youtube.com/watch?v=qFS2zANwIrc&t=96s"> Como adicionar dados ao InfluxDB Cloud com Telegraf em 5 etapas </a></li>
+<li><a href="https://www.youtube.com/watch?v=3nB8T7Coqcg"> TRABALHANDO COM CSV EM SHELL </a></li>
 
 </ul>
 
