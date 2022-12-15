@@ -1,6 +1,6 @@
 
 
-<em><h1> Sejam bem-vindos ao meu TRABALHO PRÁTICO - SÉRIES TEMPORAIS (COMPUTAÇÃO EM NUVEM E IOT II) do IFSMG. </h1></em> 
+<em><h1> Sejam bem-vindos ao meu TRABALHO PRÁTICO I - SÉRIES TEMPORAIS (COMPUTAÇÃO EM NUVEM E IOT II) do IFSMG. </h1></em> 
 
 
 <h2> 🎯 Objetivo </h2>
